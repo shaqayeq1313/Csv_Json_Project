@@ -1,0 +1,29 @@
+<ArrayList>
+  <item>
+    <Encrypted_Balance>bQL0oUer+DWqsm+Y7v8AFQ==</Encrypted_Balance>
+    <Account_OpenDate>2023-01-01</Account_OpenDate>
+    <Encrypted_Account_Number>x3vphqx6dYXhLhnJgNj0bux9XQOP/xkdD0igex2oxyM=</Encrypted_Account_Number>
+    <Customer_Name>James</Customer_Name>
+    <Customer_Id>1</Customer_Id>
+    <Customer_National_Id>S123123123</Customer_National_Id>
+    <Customer_Surname>Smith</Customer_Surname>
+  </item>
+  <item>
+    <Encrypted_Balance>NKQZLL3ZXRSsn+nSXAT1tg==</Encrypted_Balance>
+    <Account_OpenDate>2023-02-20</Account_OpenDate>
+    <Encrypted_Account_Number>XUcbANeiXcKet/J8gPmD1ZjRkwpiH77cD8JMCLb4JgY=</Encrypted_Account_Number>
+    <Customer_Name>Michael</Customer_Name>
+    <Customer_Id>2</Customer_Id>
+    <Customer_National_Id>0987654321</Customer_National_Id>
+    <Customer_Surname>Smith</Customer_Surname>
+  </item>
+  <item>
+    <Encrypted_Balance>qSS/4+TT4s832UeICRu7Qg==</Encrypted_Balance>
+    <Account_OpenDate>2023-12-13</Account_OpenDate>
+    <Encrypted_Account_Number>pQeO8egbXbz8xppj+0oLhhp6nWKwFNbW20WcrjSgR3Y=</Encrypted_Account_Number>
+    <Customer_Name>‏ ‏Isabella</Customer_Name>
+    <Customer_Id>12</Customer_Id>
+    <Customer_National_Id>A999999999</Customer_National_Id>
+    <Customer_Surname>Jackson</Customer_Surname>
+  </item>
+</ArrayList>

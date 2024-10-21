@@ -1,0 +1,25 @@
+[ {
+  "Encrypted_Balance" : "bQL0oUer+DWqsm+Y7v8AFQ==",
+  "Account_OpenDate" : "2023-01-01",
+  "Encrypted_Account_Number" : "x3vphqx6dYXhLhnJgNj0bux9XQOP/xkdD0igex2oxyM=",
+  "Customer_Name" : "James",
+  "Customer_Id" : 1,
+  "Customer_National_Id" : "S123123123",
+  "Customer_Surname" : "Smith"
+}, {
+  "Encrypted_Balance" : "NKQZLL3ZXRSsn+nSXAT1tg==",
+  "Account_OpenDate" : "2023-02-20",
+  "Encrypted_Account_Number" : "XUcbANeiXcKet/J8gPmD1ZjRkwpiH77cD8JMCLb4JgY=",
+  "Customer_Name" : "Michael",
+  "Customer_Id" : 2,
+  "Customer_National_Id" : "0987654321",
+  "Customer_Surname" : "Smith"
+}, {
+  "Encrypted_Balance" : "qSS/4+TT4s832UeICRu7Qg==",
+  "Account_OpenDate" : "2023-12-13",
+  "Encrypted_Account_Number" : "pQeO8egbXbz8xppj+0oLhhp6nWKwFNbW20WcrjSgR3Y=",
+  "Customer_Name" : "‏ ‏Isabella",
+  "Customer_Id" : 12,
+  "Customer_National_Id" : "A999999999",
+  "Customer_Surname" : "Jackson"
+} ]

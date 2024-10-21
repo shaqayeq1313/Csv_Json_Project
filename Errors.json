@@ -1,0 +1,99 @@
+[ {
+  "file_name" : "Customer",
+  "error_description" : "Customer validation failed",
+  "error_classification_name" : "Validation Error",
+  "error_code" : "400",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "4,987 Pine Rd,1982-07-14,Bob,125,Brown,2154624  #invalid"
+}, {
+  "file_name" : "Account",
+  "error_description" : "Exception processing Account line",
+  "error_classification_name" : "Processing Error",
+  "error_code" : "500",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "4567890123456789012345,5,3000.00,2500.00,2023-04-12,4   #invalid"
+}, {
+  "file_name" : "Customer",
+  "error_description" : "Customer validation failed",
+  "error_classification_name" : "Validation Error",
+  "error_code" : "400",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "8,123 Maple St,1984-01-01,‏Mia,m555555555,Taylor,5550017 #invalid"
+}, {
+  "file_name" : "Account",
+  "error_description" : "Exception processing Account line",
+  "error_classification_name" : "Processing Error",
+  "error_code" : "500",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "2348986882016051427596,2,597.20,600.00,2023-06-12,8     #invalid"
+}, {
+  "file_name" : "Customer",
+  "error_description" : "Customer validation failed",
+  "error_classification_name" : "Validation Error",
+  "error_code" : "400",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "9,456 Oak St,2016-08-21,‏Noah,l666666666666,‏Thomas,5550018   #invalid"
+}, {
+  "file_name" : "Account",
+  "error_description" : "Exception processing Account line",
+  "error_classification_name" : "Processing Error",
+  "error_code" : "500",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "9988706115942210872767,6,1251.44,793.1,2023-03-10,9   #invalid"
+}, {
+  "file_name" : "Customer",
+  "error_description" : "Customer validation failed",
+  "error_classification_name" : "Validation Error",
+  "error_code" : "400",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "6,888 Ash St,1992-07-07,‏Ava,A3333333,‏ ‏Martinez,5550015   #invalid"
+}, {
+  "file_name" : "Account",
+  "error_description" : "Exception processing Account line",
+  "error_classification_name" : "Processing Error",
+  "error_code" : "500",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "5085417350091971076123,3,1600.71,1500.00,2023-07-13,6"
+}, {
+  "file_name" : "Customer",
+  "error_description" : "Customer validation failed",
+  "error_classification_name" : "Validation Error",
+  "error_code" : "400",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "5,234 Birch Blvd,1995-09-29,Charlie,6543210987,6543210987,5214411  #invalid"
+}, {
+  "file_name" : "Account",
+  "error_description" : "Exception processing Account line",
+  "error_classification_name" : "Processing Error",
+  "error_code" : "500",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "7578790553506398070089,2,577.06,324.6,2023-06-12,5"
+}, {
+  "file_name" : "Customer",
+  "error_description" : "Customer validation failed",
+  "error_classification_name" : "Validation Error",
+  "error_code" : "400",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "13,222 Elm St,1993-09-19,‏Mason,F101010101,‏Martin,5550022   #invalid"
+}, {
+  "file_name" : "Account",
+  "error_description" : "Exception processing Account line",
+  "error_classification_name" : "Processing Error",
+  "error_code" : "500",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "5944926452570776466342,1,1315.90,1200.00,2023-06-25,13"
+}, {
+  "file_name" : "Account",
+  "error_description" : "Exception processing Account line",
+  "error_classification_name" : "Processing Error",
+  "error_code" : "500",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "540085640062,3,1435.14,1000.00,2023-10-29,14       #invalid"
+}, {
+  "file_name" : "Account",
+  "error_description" : "Account validation failed",
+  "error_classification_name" : "Validation Error",
+  "error_code" : "400",
+  "error_date" : "2024-10-22T00:07:43",
+  "error_data" : "3456789012345678901234,1,7000.00,8800.00,2023-03-25,3"
+} ]
